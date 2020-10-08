@@ -1,0 +1,16 @@
+mydata <- read.csv("https://www.theissaclee.com/ko/courses/rstat101/examscore.csv", header = TRUE)
+head(mydata)
+summary(mydata$midterm)
+
+y<- character(length=30)
+
+y[mydata$midterm>=49.75]<-"high"
+y[mydata$midterm<49.75]<-"Low"
+mydata$HighLow<-y
+mytable<-table(mydata$HighLow)
+
+
+pie(mytable,
+    labels = names(mytable),
+    main="Pie Chart of categorical variable")
+
