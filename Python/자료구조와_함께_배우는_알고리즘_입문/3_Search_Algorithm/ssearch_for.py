@@ -1,17 +1,13 @@
-# linear search algorithm using with while loop
+# linear search algorithm using with for loop
 
 from typing import Any, Sequence
 
 def seq_search(a: Sequence, key: Any) -> int:
-    """a"""
-    i = 0
-
-    while True:
-        if i == len(a):
-            return -1    # Return -1, because fail to search
+    """Linear search for elements of the same value as the 'key' in sequence 'a'"""
+    for i in range(len(a)):
         if a[i] == key:
-            return i     # Search succeeded and returned the index of the currently scanned array
-        i += 1
+            return i    # Sucess for search (return index)
+        return -1       # Fail to search (return -1)
 
 if __name__ == '__main__':
     num = int(input('Enter the number of element: '))    # Entered the num value
