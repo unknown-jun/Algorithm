@@ -1,14 +1,24 @@
-# # print out base notation among 2~36 converting with decimal number
+# print out base notation among 2~36 converting with decimal number
 
 def card_conv(x: int, r: int) -> str:
     """Return string representative number which convert integer 'x' to 'r' base notation"""
 
-    d = ''    ## The string after converting
+    d = ''    # The string after converting
     dchar = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-    n = len(str(x))
+    n = len(str(x))    # The digit before conversion
 
     print(f'{r:2} | {x:{n}d}')
+    while x > 0:
+        print('    +' + (n + 2) * '-')
+        if x // r:
+            print(f'{r:2} | {x // r:{n}d} ...{x % r}')
+        else:
+            print(f'    {x//r:{n}d} ... {x % r}')
+        d += dchar [x % r]
+        x //= r
     
+    return d[::-1]
+
 if __name__ == '__main__':
     print("Converts a decimal number to an 'n' base notation.") 
 
