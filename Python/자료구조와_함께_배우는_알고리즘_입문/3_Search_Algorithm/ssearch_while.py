@@ -3,7 +3,7 @@
 from typing import Any, Sequence
 
 def seq_search(a: Sequence, key: Any) -> int:
-    """a"""
+    """Linear search for elements of the same value as the 'key' in sequence 'a'"""
     i = 0
 
     while True:
