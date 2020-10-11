@@ -1,14 +1,38 @@
-# binary search algorithm
+# print the execution process of binary search algorithm
 
 from typing import Any, Sequence
 
 def bin_search(a: Sequence, key: Any) -> int:
-    """binary search for elements of the same value as the 'key' in sequence 'a'"""
-    pl = 0                     # Index of the element at the first of the search scope
-    pr = len(a) - 1            # Index of the element at the End of the search scope
+    """binary search for elements of the same value as the 'key' in sequence 'a'
+    (print execution process)"""
+    pl = 0                         # Index of the element at the first of the search scope
+    pr = len(a) - 1                # Index of the element at the End of the search scope
+
+    print('    |', end='')
+    for i in range(len(a)):
+        print(f'{i:4}', end='')
+    print()
+    print('---+' + (4 * len(a) + 2) * '-')
 
     while True:
-        pc = (pl + pr) // 2    # Index at the middle of element
+        pc = (pl + pr) // 2        # index of central element
+
+        print('    |', end='')
+        if pl != pc:               # print '<-' above pl element
+            print((pl * 4 + 1) * ' ' + '<-' + ((pc-pl) * 4) * ' ' + '+', end='')
+        else:
+            print((pc * 4 + 1) * ' ' + '<+', end='')
+        if pc != pr:               # print '->' above pr element
+            print(((pr - pc) * 4 - 2) * ' ' + '->')
+        else:
+            print('->')
+
+        print(f'{pc:3}|', end='')
+        
+        for i in range(len(a)):
+            print(f'{a[i]:4}', end='')
+        print('\n    |')
+        
         if a[pc] == key:
             return pc          # Sucess searching
         elif a[pc] < key:
