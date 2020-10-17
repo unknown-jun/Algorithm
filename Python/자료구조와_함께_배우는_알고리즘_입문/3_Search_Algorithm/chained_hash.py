@@ -13,7 +13,6 @@ class Node:
         self.value = value # value
         self.next = next   # refer to backward node
 
-
 class ChaineHash:
 
     def __init__(self, capacity: int) -> None:
@@ -26,8 +25,6 @@ class ChaineHash:
         if isinstance(key, int):
             return key % self.capacity
         return(int(hashlib.sha256(str(key).encode()).hexdigest(), 16) % self.capacity)
-
-
 
     def search(self, key: Any) -> Any:
         """Retrun the key which is 'key' with searching element"""
@@ -54,7 +51,6 @@ class ChaineHash:
         temp = Node(key, value, self.table[hash])
         self.table[hash] = temp         # Add the node
         return True                     # Search sucess
-
 
     def remove(self, key: Any) -> bool:
         """Remove the element which is 'key'"""
