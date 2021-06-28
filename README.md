@@ -13,3 +13,5 @@
 &nbsp;&nbsp;&nbsp;Algorithm109 - 프로그래머스 [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)<br>
 &nbsp;&nbsp;&nbsp;Algorithm110 - 프로그래머스 [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)<br>
 &nbsp;&nbsp;&nbsp;Algorithm111 - 프로그래머스 [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)<br>
+&nbsp;&nbsp;&nbsp;Algorithm112 - 프로그래머스 [실패율](https://programmers.co.kr/learn/courses/30/lessons/12982)<br>
+&nbsp;&nbsp;&nbsp;Algorithm111 - 프로그래머스 [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)<br>
