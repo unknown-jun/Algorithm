@@ -30,3 +30,4 @@
 &nbsp;&nbsp;&nbsp;Algorithm122 - 프로그래머스 [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)<br>
 &nbsp;&nbsp;&nbsp;Algorithm123 - 프로그래머스 [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)<br>
 &nbsp;&nbsp;&nbsp;Algorithm124 - 프로그래머스 [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)<br>
+&nbsp;&nbsp;&nbsp;Algorithm125 - 프로그래머스 [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)<br>
