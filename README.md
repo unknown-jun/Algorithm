@@ -32,3 +32,5 @@
 &nbsp;&nbsp;&nbsp;Algorithm124 - 프로그래머스 [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)<br>
 &nbsp;&nbsp;&nbsp;Algorithm125 - 프로그래머스 [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)<br>
 &nbsp;&nbsp;&nbsp;Algorithm126 - 프로그래머스 [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)<br>
+&nbsp;&nbsp;&nbsp;Algorithm127 - 프로그래머스 [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)<br>
+&nbsp;&nbsp;&nbsp;Algorithm128 - 프로그래머스 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)<br>
