@@ -34,3 +34,6 @@
 &nbsp;&nbsp;&nbsp;Algorithm126 - 프로그래머스 [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)<br>
 &nbsp;&nbsp;&nbsp;Algorithm127 - 프로그래머스 [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)<br>
 &nbsp;&nbsp;&nbsp;Algorithm128 - 프로그래머스 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)<br>
+&nbsp;&nbsp;&nbsp;Algorithm129 - 프로그래머스 [수박수박수](https://programmers.co.kr/learn/courses/30/lessons/12922)<br>
+&nbsp;&nbsp;&nbsp;Algorithm130 - 프로그래머스 [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)<br>
+
