@@ -38,3 +38,4 @@
 &nbsp;&nbsp;&nbsp;Algorithm130 - 프로그래머스 [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)<br>
 &nbsp;&nbsp;&nbsp;Algorithm131 - 프로그래머스 [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)<br>
 &nbsp;&nbsp;&nbsp;Algorithm132 - 프로그래머스 [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)<br>
+&nbsp;&nbsp;&nbsp;Algorithm133 - 프로그래머스 [이상한 문자](https://programmers.co.kr/learn/courses/30/lessons/12930)<br>
