@@ -43,4 +43,6 @@
 &nbsp;&nbsp;&nbsp;Algorithm135 - 프로그래머스 [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)<br>
 &nbsp;&nbsp;&nbsp;Algorithm136 - 프로그래머스 [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)<br>
 &nbsp;&nbsp;&nbsp;Algorithm137 - 프로그래머스 [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)<br>
-&nbsp;&nbsp;&nbsp;Algorithm137 - 프로그래머스 [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)<br>
+&nbsp;&nbsp;&nbsp;Algorithm138 - 프로그래머스 [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)<br>
+&nbsp;&nbsp;&nbsp;Algorithm139 - 프로그래머스 [짝수와 ](https://programmers.co.kr/learn/courses/30/lessons/12937)<br>
+&nbsp;&nbsp;&nbsp;Algorithm140 - 프로그래머스 [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)<br>
