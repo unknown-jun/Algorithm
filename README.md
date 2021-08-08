@@ -47,3 +47,4 @@
 &nbsp;&nbsp;&nbsp;Algorithm139 - 프로그래머스 [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)<br>
 &nbsp;&nbsp;&nbsp;Algorithm140 - 프로그래머스 [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)<br>
 &nbsp;&nbsp;&nbsp;Algorithm141 - 프로그래머스 [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)<br>
+&nbsp;&nbsp;&nbsp;Algorithm142 - 프로그래머스 [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)<br>
